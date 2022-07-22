@@ -1,5 +1,4 @@
-# Bug Bounty
-https://immunefi.com/bounty/grizzlyfi/
+
 
 
 # Contracts
